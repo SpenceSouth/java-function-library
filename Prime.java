@@ -1,16 +1,13 @@
-//Function Master Class
-
-
-
-
+//Prime number class
+/*
+This class has two methods that accept an integer value.  The isPrime() method takes in an integer value and returns
+true or false to indicate a prime number.  getNextPrime() returns a prime number greater than the integer given to it.
+*/
 
 public class Prime{
 
-   //Decs
-   int num;
+   public Prime(){
    
-   public Prime(int num){
-      this.num = num;
    }
 
    // Returns true if input is a prime number.
