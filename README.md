@@ -3,3 +3,5 @@ The function master class contains a variety of objects and functions that would
 Classes:
 
 Prime- Returns if Prime Number.  Finds next Prime Number.
+
+LogcatHelper (Android)- Exports logcat from application to application cache on sdcard.
